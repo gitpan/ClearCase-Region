@@ -49,5 +49,7 @@ or
 	perl -I. Vob_test
 
 The scripts in the examples directory use Log4perl configuration files that
-are located in the examples directory as well.  These *.conf files will create
-a log named 'test.log' in the current directory.
+get installed along with the modules.  These configuration files are
+co_backup.conf, main_cos.conf, Region_test.conf and Vob_test.conf.  These
+*.conf files will create a log named 'test.log' in the current directory
+whenever the corresponding script is executed.

@@ -7,7 +7,7 @@ examples/co_backup
 examples/Region_test
 examples/Vob_test
 examples/main_cos
-examples/test.log
+t/01Region.t
 LICENSE
 lib/ClearCase/Region.pm
 lib/ClearCase/Region_Cfg_Parser.pm
